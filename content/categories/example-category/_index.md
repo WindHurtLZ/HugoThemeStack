@@ -1,6 +1,6 @@
 ---
-title: Example Category
-description: A description of this category
+title: Modified Category
+description: MODIFIED description
 image:
 
 # Badge style
